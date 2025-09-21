@@ -37,6 +37,11 @@ This guide details the specific pin connections for all components in your voice
 | **LED (Red)** | \- | 17 |
 | **LED (Green)** | \- | 16 |
 
+### **Wiring Diagram**
+
+For a visual guide to the circuit connections, please refer to the Fritzing breadboard diagram: [Circuit diagram](fritz.png)
+
+
 ### **System Overview**
 
 The system operates in a series of states managed by the ESP32 firmware:
